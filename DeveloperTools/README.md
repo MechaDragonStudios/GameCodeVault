@@ -1,0 +1,1 @@
+This is the gitignore file for visual studio project to connect with github.
